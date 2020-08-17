@@ -1,6 +1,6 @@
 # RadonDB
 
-##Thanks for using RadonDB. 
+## Thanks for using RadonDB. 
 This is a python package, the Radon Package to help you with managing, and updating RadonDB.
 
 #Features of RadonDB package
@@ -15,7 +15,7 @@ This is a python package, the Radon Package to help you with managing, and updat
 8. CSV, MD and HTML support
 9. RDQL
 
-#Why use RadonDB
+# Why use RadonDB
 
 RadonDB can be used in multiple occations, either be it a Django webserver,
 or flask, but the best feature is It's own server.
