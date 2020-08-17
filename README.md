@@ -5,7 +5,7 @@ This is a python package, the Radon Package to help you with managing, and updat
 
 ### Features of RadonDB package
 
- Object Oriented
+1. Object Oriented
 2. Easy to use
 3. Simultaneous database management
 4. Password protected databases
